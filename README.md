@@ -6,9 +6,12 @@ BookStore is a ecommerce website of books.
 
 # Teach Stack
 Nextjs
+<br>
 Tailwind CSS
+<br>
 Firebase
 
 # Authors
 Atanu Mojumdar
+<br>
 Ronit Das
