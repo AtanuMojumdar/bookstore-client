@@ -17,11 +17,25 @@
 }
 
 body {
-  color: rgb(var(--foreground-rgb));
-  background: linear-gradient(
-      to bottom,
-      transparent,
-      rgb(var(--background-end-rgb))
-    )
-    rgb(var(--background-start-rgb));
+  background-color: #E7E6D8!important;
+}
+#google{
+  border: 1px solid black;
+}
+
+input{
+  background-color:#E7E6D8 ;
+  border: 2px solid #372617;
+  border-top: 0;
+  border-right: 0;
+  border-left: 0;
+}
+input:focus{
+  border-top: 0;
+  border-right: 0;
+  border-left: 0;
+  outline: none;
+}
+.input:focus, .input:active {
+  background: #E7E6D8
 }
