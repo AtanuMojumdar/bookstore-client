@@ -1,6 +1,8 @@
 {
   "name": "client",
   "version": "0.1.0",
+  "description": "client side code for bookstore",
+  "author": "Atanu & Ronit",
   "private": true,
   "scripts": {
     "dev": "next dev",
